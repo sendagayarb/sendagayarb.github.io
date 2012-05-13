@@ -1,0 +1,10 @@
+.navbar a.brand {
+    padding-left: 40px;
+    background:url('/assets/images/sendagaya40x40.png') no-repeat 0 0;
+}
+
+.navbar-inner {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}

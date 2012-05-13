@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Sendagaya.rb
-tagline: ゆるふわもくもく会
+title: Sendagaya.rbとは？
+tagline: ""
 ---
 {% include JB/setup %}
 
-株式会社コネクトスターのオフィスが千駄ヶ谷に移転し、<br />
-比較的オープンな空気あるし、勉強会とかしたいな<br />
-と思った中の人@ppworksが始めたゆるふわコミュニティである。
+コンセプトは、もくもく勉強会。
+ゆるふわコミュニティである。
 
 ## やること
 * 千駄ヶ谷で開催する勉強会
-* コネスタで開催
-* 毎週月曜日19:30〜21:30
-* 前週の金曜日に[facebook group](https://www.facebook.com/groups/132324356892674/)にて招集をかけます。今はzussar使ってます。
-* ruby, heroku, objective-cあたりをやる
-* 定期的に集まってもくもくする予定
-* たまに読書会をする
-* [heroku devcenter 読書会](https://github.com/herokaijp/devcenter/wiki)
+    * [コネスタ](http://www.connectstar.jp/)で開催
+* ruby, heroku, objective-cあたりが主テーマです。
+* 毎週月曜日
+    * 前週の金曜日に[facebook group](https://www.facebook.com/groups/132324356892674/)にて招集をかけます。今は[zussar](http://www.zusaar.com/user/agZ6dXNhYXJyFQsSBFVzZXIiCzkwNTU4MDIwX3R3DA)使ってます。
+    * 19:00〜19:30
+        * [heroku devcenter 読書会](https://github.com/herokaijp/devcenter/wiki)
+    * 19:30〜21:30
+        * もくもくします。
 
 ## ルール
 * 始まる前に軽い自己紹介
@@ -31,11 +31,13 @@ tagline: ゆるふわもくもく会
 
 
 ## 関連url
-
+* [sendagaya.rb repository](http://github.com/sendagayarb)
 * [エアー参加用chat部屋(lingr)](http://lingr.com/room/sendagayarb)
 * [facebook group](https://www.facebook.com/groups/132324356892674/)
 
+---
+
 ## 過去の開催記録
 
+* [sendagaya.rb #2 mokmok](http://github.com/sendagayarb/mokmok_2012-05-07)
 * [sendagaya.rb #1 heroku devcenter 読書会 #1](https://github.com/sendagayarb/sendagayarb.github.com/wiki/20120502-Heroku-Devcenter-Reading)
-
