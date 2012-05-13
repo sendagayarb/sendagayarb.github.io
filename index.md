@@ -18,6 +18,11 @@ tagline: ""
         * [heroku devcenter 読書会](https://github.com/herokaijp/devcenter/wiki)
     * 19:30〜21:30
         * もくもくします。
+* 毎週金曜日
+    * 12:00〜13:30
+    * 千駄ケ谷付近でランチします。
+    * [facebook group](https://www.facebook.com/groups/132324356892674/)にてイベントを立てて行います。
+    * facebook以外からの参加申請は、[@ppworks](http://twitter.com/#!/ppworks)までmentionお願いします。
 
 ## ルール
 * 始まる前に軽い自己紹介
