@@ -39,6 +39,7 @@ tagline: ""
 * [sendagaya.rb repository](http://github.com/sendagayarb)
 * [エアー参加用chat部屋(lingr)](http://lingr.com/room/sendagayarb)
 * [facebook group](https://www.facebook.com/groups/132324356892674/)
+* [KPT-it](http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1)
 
 ---
 
