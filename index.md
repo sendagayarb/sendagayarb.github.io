@@ -43,8 +43,9 @@ tagline: ""
 
 ---
 
-## 過去の開催記録
+## 開催記録
 
+* [sendagaya.rb #6 mokmok](http://github.com/sendagayarb/mokmok_2012-06-04) 次回
 * [sendagaya.rb #5 mokmok](http://github.com/sendagayarb/mokmok_2012-05-28)
 * [sendagaya.rb #4 mokmok](http://github.com/sendagayarb/mokmok_2012-05-21)
 * [sendagaya.rb #3 mokmok](http://github.com/sendagayarb/mokmok_2012-05-14)
