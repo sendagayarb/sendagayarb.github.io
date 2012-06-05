@@ -13,7 +13,7 @@ tagline: ""
     * [コネスタ](http://www.connectstar.jp/)で開催
 * ruby, heroku, objective-cあたりが主テーマです。
 * 毎週月曜日
-    * 前週の金曜日に[facebook group](https://www.facebook.com/groups/132324356892674/)にて招集をかけます。今は[zussar](http://www.zusaar.com/user/agZ6dXNhYXJyFQsSBFVzZXIiCzkwNTU4MDIwX3R3DA)使ってます。
+    * 前週の火曜日に[facebook group](https://www.facebook.com/groups/132324356892674/)にて招集をかけます。今は[zussar](http://www.zusaar.com/user/agZ6dXNhYXJyFQsSBFVzZXIiCzkwNTU4MDIwX3R3DA)使ってます。
     * 19:00〜19:30
         * [heroku devcenter 読書会](https://github.com/herokaijp/devcenter/wiki)
     * 19:30〜21:30
@@ -44,8 +44,8 @@ tagline: ""
 ---
 
 ## 開催記録
-
-* [sendagaya.rb #6 mokmok](http://github.com/sendagayarb/mokmok_2012-06-04) 次回
+* [sendagaya.rb #7 mokmok](http://github.com/sendagayarb/mokmok_2012-06-11) 次回
+* [sendagaya.rb #6 mokmok](http://github.com/sendagayarb/mokmok_2012-06-04)
 * [sendagaya.rb #5 mokmok](http://github.com/sendagayarb/mokmok_2012-05-28)
 * [sendagaya.rb #4 mokmok](http://github.com/sendagayarb/mokmok_2012-05-21)
 * [sendagaya.rb #3 mokmok](http://github.com/sendagayarb/mokmok_2012-05-14)
