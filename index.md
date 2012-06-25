@@ -24,6 +24,10 @@ tagline: ""
     * 基本気まぐれで、[@ppworks](http://twitter.com/#!/ppworks)が適当に誘います。
     * 希望者は、[@ppworks](http://twitter.com/#!/ppworks)までmentionお願いします。
 
+## 来る前の準備
+* mokmok_yyyy-mm-ddのリポジトリに各自のidディレクトリ作成しておく(gitに慣れてない人は当日で良いです。)
+* ポジションペーパー作成（←自己紹介）
+
 ## ルール
 * 始まる前に軽い自己紹介
 * やること宣言
@@ -44,8 +48,7 @@ tagline: ""
 ---
 
 ## 開催記録
-* [sendagaya.rb #9 mokmok](http://github.com/sendagayarb/mokmok_2012-06-25) 次回
-* [sendagaya.rb #8 mokmok](http://github.com/sendagayarb/mokmok_2012-06-18)
+* [sendagaya.rb #8 mokmok](http://github.com/sendagayarb/mokmok_2012-06-18) 次回
 * [sendagaya.rb #7 mokmok](http://github.com/sendagayarb/mokmok_2012-06-11)
 * [sendagaya.rb #6 mokmok](http://github.com/sendagayarb/mokmok_2012-06-04)
 * [sendagaya.rb #5 mokmok](http://github.com/sendagayarb/mokmok_2012-05-28)
