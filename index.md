@@ -27,7 +27,7 @@ tagline: ""
 ## 来る前の準備
 * mokmok_yyyy-mm-ddのリポジトリに各自のidディレクトリ作成しておく(gitに慣れてない人は当日で良いです。)
 * ポジションペーパー作成（←自己紹介）
-** [ポジションペーパー例](https://github.com/sendagayarb/sendagayarb.github.com/wiki/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B)
+    * [ポジションペーパー例](https://github.com/sendagayarb/sendagayarb.github.com/wiki/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B)
 
 ## ルール
 * 始まる前に軽い自己紹介
