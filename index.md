@@ -5,8 +5,8 @@ tagline: ""
 ---
 {% include JB/setup %}
 
-コンセプトは、もくもく勉強会。
-ゆるふわコミュニティである。
+コンセプトは、 誰でも気軽に参加できるゆるふわコミュニティ。
+基本的に週一でもくもくと興味あることについて作業する勉強会です。
 
 ## やること
 * 千駄ヶ谷で開催する勉強会
@@ -18,11 +18,7 @@ tagline: ""
         * [heroku devcenter 読書会](https://github.com/herokaijp/devcenter/wiki)
     * 19:30〜21:30
         * もくもくします。
-* 毎週金曜日
-    * 12:00〜13:30
-    * 千駄ケ谷付近でランチします。
-    * 基本気まぐれで、[@ppworks](http://twitter.com/#!/ppworks)が適当に誘います。
-    * 希望者は、[@ppworks](http://twitter.com/#!/ppworks)までmentionお願いします。
+        * 何か具体的に相談したいテーマがある人はそれについて議論も可能。
 
 ## 来る前の準備
 * mokmok_yyyy-mm-ddのリポジトリに各自のidディレクトリ作成しておく(gitに慣れてない人は当日で良いです。)
@@ -49,11 +45,13 @@ tagline: ""
 ---
 
 ## 開催記録
-* [sendagaya.rb #8 mokmok](http://github.com/sendagayarb/mokmok_2012-06-18) 次回
+* [sendagaya.rb #10 mokmok](http://github.com/sendagayarb/mokmok_2012-07-02) 次回 ミニgitdojoの予定です。
+* [sendagaya.rb #9 mokmok](http://github.com/sendagayarb/mokmok_2012-06-25) RESTfulなurl設計を議論をしたチームもいました。
+* [sendagaya.rb #8 mokmok](http://github.com/sendagayarb/mokmok_2012-06-18)
 * [sendagaya.rb #7 mokmok](http://github.com/sendagayarb/mokmok_2012-06-11)
 * [sendagaya.rb #6 mokmok](http://github.com/sendagayarb/mokmok_2012-06-04)
-* [sendagaya.rb #5 mokmok](http://github.com/sendagayarb/mokmok_2012-05-28)
-* [sendagaya.rb #4 mokmok](http://github.com/sendagayarb/mokmok_2012-05-21)
+* [sendagaya.rb #5 mokmok](http://github.com/sendagayarb/mokmok_2012-05-28) capistranoでrvm, rubyをinstallするハンズオンを行いました。
+* [sendagaya.rb #4 mokmok](http://github.com/sendagayarb/mokmok_2012-05-21) OAuthの相談会をしたチームもいました。
 * [sendagaya.rb #3 mokmok](http://github.com/sendagayarb/mokmok_2012-05-14)
 * [sendagaya.rb #2 mokmok](http://github.com/sendagayarb/mokmok_2012-05-07)
 * [sendagaya.rb #1 heroku devcenter 読書会 #1](https://github.com/sendagayarb/sendagayarb.github.com/wiki/20120502-Heroku-Devcenter-Reading)
