@@ -45,7 +45,8 @@ tagline: ""
 ---
 
 ## 開催記録
-* [sendagaya.rb #10 mokmok](http://github.com/sendagayarb/mokmok_2012-07-02) 次回 ミニgitdojoの予定です。
+* [sendagaya.rb #11 mokmok](http://github.com/sendagayarb/mokmok_2012-07-09) 次回
+* [sendagaya.rb #10 mokmok](http://github.com/sendagayarb/mokmok_2012-07-02) ミニgitdojoをやりました。
 * [sendagaya.rb #9 mokmok](http://github.com/sendagayarb/mokmok_2012-06-25) RESTfulなurl設計を議論をしたチームもいました。
 * [sendagaya.rb #8 mokmok](http://github.com/sendagayarb/mokmok_2012-06-18)
 * [sendagaya.rb #7 mokmok](http://github.com/sendagayarb/mokmok_2012-06-11)
