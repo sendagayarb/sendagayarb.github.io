@@ -21,7 +21,7 @@ tagline: ""
         * 何か具体的に相談したいテーマがある人はそれについて議論も可能。
 
 ## 来る前の準備
-* mokmok_yyyy-mm-ddのリポジトリに各自のidディレクトリ作成しておく(gitに慣れてない人は当日で良いです。)
+* mokmokリポジトリのyyyy-mm-ddディレクトリ配下に各自のidディレクトリ作成しておく(gitに慣れてない人は当日で良いです。)
 * ポジションペーパー作成（←自己紹介）
     * [ポジションペーパー例](https://github.com/sendagayarb/sendagayarb.github.com/wiki/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B)
 
@@ -31,9 +31,9 @@ tagline: ""
 * もくもく
 * 最後に成果発表(形式自由)
 * 成果はgithubにあげる。(形式自由)
-* 成果上げる先は[mokmok_yyyy-mm-dd(リンク先は2012年05月07日の例)](https://github.com/sendagayarb/mokmok_2012-05-07)
+* 成果上げる先は[mokmok/yyyy-mm-dd(リンク先は2012年05月07日の例)](https://github.com/sendagayarb/mokmok/tree/master/2012-05-07)
 * 各自のidでディレクトリを作ってそこに自由に何かを上げる。githubのリンクでも良いし、gistのリンクでも良いです。
-* [ppworksの例](https://github.com/sendagayarb/mokmok_2012-05-07/blob/master/ppworks/history.md)
+* [ppworksの例](https://github.com/sendagayarb/mokmok/blob/master/2012-05-07/ppworks/history.md)
 
 
 ## 関連url
@@ -45,14 +45,15 @@ tagline: ""
 ---
 
 ## 開催記録
-* [sendagaya.rb #11 mokmok](http://github.com/sendagayarb/mokmok_2012-07-09) 次回
-* [sendagaya.rb #10 mokmok](http://github.com/sendagayarb/mokmok_2012-07-02) ミニgitdojoをやりました。
-* [sendagaya.rb #9 mokmok](http://github.com/sendagayarb/mokmok_2012-06-25) RESTfulなurl設計を議論をしたチームもいました。
-* [sendagaya.rb #8 mokmok](http://github.com/sendagayarb/mokmok_2012-06-18)
-* [sendagaya.rb #7 mokmok](http://github.com/sendagayarb/mokmok_2012-06-11)
-* [sendagaya.rb #6 mokmok](http://github.com/sendagayarb/mokmok_2012-06-04)
-* [sendagaya.rb #5 mokmok](http://github.com/sendagayarb/mokmok_2012-05-28) capistranoでrvm, rubyをinstallするハンズオンを行いました。
-* [sendagaya.rb #4 mokmok](http://github.com/sendagayarb/mokmok_2012-05-21) OAuthの相談会をしたチームもいました。
-* [sendagaya.rb #3 mokmok](http://github.com/sendagayarb/mokmok_2012-05-14)
-* [sendagaya.rb #2 mokmok](http://github.com/sendagayarb/mokmok_2012-05-07)
+* [sendagaya.rb #12 RailsにおけるRESTfulなURL設計勉強会](https://github.com/sendagayarb/mokmok/tree/master/2012-07-23) 次回 
+* [sendagaya.rb #11 mokmok](https://github.com/sendagayarb/mokmok/tree/master/2012-07-09) backbone.js話に花咲かせました
+* [sendagaya.rb #10 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-07-02) ミニgitdojoをやりました。
+* [sendagaya.rb #9 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-06-25) RESTfulなurl設計を議論をしたチームもいました。
+* [sendagaya.rb #8 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-06-18)
+* [sendagaya.rb #7 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-06-11)
+* [sendagaya.rb #6 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-06-04)
+* [sendagaya.rb #5 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-05-28) capistranoでrvm, rubyをinstallするハンズオンを行いました。
+* [sendagaya.rb #4 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-05-21) OAuthの相談会をしたチームもいました。
+* [sendagaya.rb #3 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-05-14)
+* [sendagaya.rb #2 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-05-07)
 * [sendagaya.rb #1 heroku devcenter 読書会 #1](https://github.com/sendagayarb/sendagayarb.github.com/wiki/20120502-Heroku-Devcenter-Reading)
