@@ -45,8 +45,9 @@ tagline: ""
 ---
 
 ## 開催記録
+* [sendagaya.rb #13 mokmok](https://github.com/sendagayarb/mokmok/tree/master/2012-07-30) NEXT!
 * [sendagaya.rb drinkup #1 Drinkup 全員LT大会の巻](http://sendagayarb.doorkeeper.jp/events/1314)
-* [sendagaya.rb #12 RailsにおけるRESTfulなURL設計勉強会](https://github.com/sendagayarb/mokmok/tree/master/2012-07-23) 次回 
+* [sendagaya.rb #12 RailsにおけるRESTfulなURL設計勉強会](https://github.com/sendagayarb/mokmok/tree/master/2012-07-23)
 * [sendagaya.rb #11 mokmok](https://github.com/sendagayarb/mokmok/tree/master/2012-07-09) backbone.js話に花咲かせました
 * [sendagaya.rb #10 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-07-02) ミニgitdojoをやりました。
 * [sendagaya.rb #9 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-06-25) RESTfulなurl設計を議論をしたチームもいました。
