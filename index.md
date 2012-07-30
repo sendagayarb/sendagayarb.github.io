@@ -15,10 +15,11 @@ tagline: ""
 * 毎週月曜日
     * 前週の火曜日に[facebook group](https://www.facebook.com/groups/132324356892674/)にて招集をかけます。今は[zussar](http://www.zusaar.com/user/agZ6dXNhYXJyFQsSBFVzZXIiCzkwNTU4MDIwX3R3DA)使ってます。
     * 19:00〜19:30
-        * [heroku devcenter 読書会](https://github.com/herokaijp/devcenter/wiki)
-    * 19:30〜21:30
-        * もくもくします。
-        * 何か具体的に相談したいテーマがある人はそれについて議論も可能。
+        * 説明と自己紹介
+    * 19:30〜21:00
+        * mokmok or LT or 相談会
+    * 21:00-21:30
+        * まとめ & 成果発表
 
 ## 来る前の準備
 * mokmokリポジトリのyyyy-mm-ddディレクトリ配下に各自のidディレクトリ作成しておく(gitに慣れてない人は当日で良いです。)
@@ -28,7 +29,6 @@ tagline: ""
 ## ルール
 * 始まる前に軽い自己紹介
 * やること宣言
-* もくもく
 * 最後に成果発表(形式自由)
 * 成果はgithubにあげる。(形式自由)
 * 成果上げる先は[mokmok/yyyy-mm-dd(リンク先は2012年05月07日の例)](https://github.com/sendagayarb/mokmok/tree/master/2012-05-07)
@@ -46,7 +46,7 @@ tagline: ""
 
 ## 開催記録
 * [sendagaya.rb #13 mokmok](https://github.com/sendagayarb/mokmok/tree/master/2012-07-30) NEXT!
-* [sendagaya.rb drinkup #1 Drinkup 全員LT大会の巻](http://sendagayarb.doorkeeper.jp/events/1314)
+* [sendagaya.rb drinkup #1 Drinkup 全員LT大会の巻](https://github.com/sendagayarb/drinkup/tree/master/2012-07-27)
 * [sendagaya.rb #12 RailsにおけるRESTfulなURL設計勉強会](https://github.com/sendagayarb/mokmok/tree/master/2012-07-23)
 * [sendagaya.rb #11 mokmok](https://github.com/sendagayarb/mokmok/tree/master/2012-07-09) backbone.js話に花咲かせました
 * [sendagaya.rb #10 mokmok](http://github.com/sendagayarb/mokmok/tree/master/2012-07-02) ミニgitdojoをやりました。
