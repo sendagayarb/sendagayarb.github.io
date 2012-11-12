@@ -11,6 +11,7 @@ tagline: ""
 ## やること
 * 千駄ヶ谷で開催する勉強会
     * [コネスタ](http://www.connectstar.jp/)で開催
+    * または、渋谷のルノアールなどで開催
 * ruby, heroku, objective-cあたりが主テーマです。
 * 毎週月曜日
     * 前週の火曜日に[facebook group](https://www.facebook.com/groups/132324356892674/)にて招集をかけます。今は[zussar](http://www.zusaar.com/user/agZ6dXNhYXJyFQsSBFVzZXIiCzkwNTU4MDIwX3R3DA)使ってます。
@@ -22,7 +23,7 @@ tagline: ""
         * まとめ & 成果発表
 
 ## 来る前の準備
-* mokmokリポジトリのyyyy-mm-ddディレクトリ配下に各自のidディレクトリ作成しておく(gitに慣れてない人は当日で良いです。)
+* [sendagaya.rb group in ishikitakai.com](http://ishikitakai.com/groups/1)へ参加
 * ポジションペーパー作成（←自己紹介）
     * [ポジションペーパー例](https://github.com/sendagayarb/sendagayarb.github.com/wiki/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B)
 
@@ -30,22 +31,28 @@ tagline: ""
 * 始まる前に軽い自己紹介
 * やること宣言
 * 最後に成果発表(形式自由)
-* 成果はgithubにあげる。(形式自由)
-* 成果上げる先は[mokmok/yyyy-mm-dd(リンク先は2012年05月07日の例)](https://github.com/sendagayarb/mokmok/tree/master/2012-05-07)
-* 各自のidでディレクトリを作ってそこに自由に何かを上げる。githubのリンクでも良いし、gistのリンクでも良いです。
-* [ppworksの例](https://github.com/sendagayarb/mokmok/blob/master/2012-05-07/ppworks/history.md)
 
 
 ## 関連url
-* [sendagaya.rb repository](http://github.com/sendagayarb)
-* [エアー参加用chat部屋(lingr)](http://lingr.com/room/sendagayarb)
+* [sendagaya.rb group in ishikitakai.com](http://ishikitakai.com/groups/1)
+* [エアー参加用chat部屋(上記グループ参加後利用可能)](http://ishikitakai.com/groups/1/chat)
 * [facebook group](https://www.facebook.com/groups/132324356892674/)
-* [KPT-it](http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1)
+* [KPT](http://ishikitakai.com/groups/1/kpts)
 
 ---
 
 ## 開催記録
-* sendagaya.rb #15 RailsにおけるRESTfulなURL設計勉強会2 NEXT!
+* [sendagaya.rb #24](http://togetter.com/li/402295)
+* [sendagaya.rb #23](http://togetter.com/li/398495)
+* [sendagaya.rb #22](http://togetter.com/li/398484)
+* [sendagaya.rb #21](http://togetter.com/li/402178)
+* [sendagaya.rb #20](http://togetter.com/li/384220)
+* [sendagaya.rb #19](http://togetter.com/li/384219)
+* [sendagaya.rb in #sprk2012](http://togetter.com/li/378859)
+* [sendagaya.rb #18](http://togetter.com/li/378856)
+* [sendagaya.rb #17](http://togetter.com/li/368053)
+* [sendagaya.rb #16](http://togetter.com/li/368045)
+* [sendagaya.rb #15 RailsにおけるRESTfulなURL設計勉強会2](http://togetter.com/li/358933)
 * sendagaya.rb staff meeting 都内某所
 * [sendagaya.rb #14 RESTful](https://github.com/sendagayarb/mokmok/tree/master/2012-08-06)
 * [sendagaya.rb #13 RESTful](https://github.com/sendagayarb/mokmok/tree/master/2012-07-30)
