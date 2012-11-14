@@ -42,6 +42,8 @@ tagline: ""
 ---
 
 ## 開催記録
+* [sendagaya.rb #26](http://ishikitakai.com/events/24) 次回
+* [sendagaya.rb #25](http://ishikitakai.com/events/23)
 * [sendagaya.rb #24](http://togetter.com/li/402295)
 * [sendagaya.rb #23](http://togetter.com/li/398495)
 * [sendagaya.rb #22](http://togetter.com/li/398484)
