@@ -5,4 +5,4 @@ tagline: ""
 ---
 {% include JB/setup %}
 
-[301 Moved Permanently](https://ishikitakai.com/groups/1)
+[301 Moved Permanently](http://www.circleaf.com/groups/1)
